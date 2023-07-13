@@ -1,0 +1,13 @@
+html,
+body {
+  margin: 0px;
+  :where(.css-dev-only-do-not-override-14wwjjs).ant-btn-primary:disabled,
+  :where(
+      .css-dev-only-do-not-override-14wwjjs
+    ).ant-btn-primary.ant-btn-disabled {
+    color: white;
+  }
+  .ant-typography {
+    margin: 0px;
+  }
+}

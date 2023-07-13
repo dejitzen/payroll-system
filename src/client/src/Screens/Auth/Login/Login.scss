@@ -1,0 +1,23 @@
+.login-screen {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background-color: #202123;
+  .ant-typography {
+    color: #fff;
+  }
+}
+
+.login-box {
+  width: 40vw;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 2rem;
+  background-color: rgb(52, 53, 65);
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  color: white;
+  padding-bottom: 4rem;
+}

@@ -1,0 +1,40 @@
+.balance-container {
+  border: 1px solid #001529;
+  border-radius: 8px;
+  padding: 24px;
+  background-color: #0029101f;
+  width: 220px;
+  .ant-typography {
+    color: black;
+    margin: 0px !important;
+  }
+  .text {
+    h5 {
+      color: #001529;
+    }
+  }
+
+  .icon-and-text {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    .icon-container {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      width: 64px;
+      height: 64px;
+      background-color: #001529;
+      border-radius: 60px;
+      margin-right: 12px;
+
+      svg {
+        width: 24px;
+        height: 24px;
+        path {
+          fill: white;
+        }
+      }
+    }
+  }
+}
