@@ -1,4 +1,4 @@
-# DEEL FULLSTACK TASK
+# FULLSTACK TASK
 
 💫 Welcome! 🎉
 
